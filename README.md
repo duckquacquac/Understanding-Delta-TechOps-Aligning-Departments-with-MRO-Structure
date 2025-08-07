@@ -6,6 +6,7 @@ Upon researching Delta Air Lines and Delta TechOps in preparation for the upcomi
 > *Picture 1: List of Delta TechOps departments open for Co-op position*
 
 This document is attempting to bridge that gap by aligning Delta TechOps’ department names with a standard MRO in Aviation framework.
+
 ---
 
 ## I. Engineering in an MRO Environment
@@ -49,7 +50,7 @@ To manage this complex environment, each airline develops a **Maintenance Progra
 
 ## II. Delta TechOps: A Unique MRO Model
 
-Delta TechOps is not just any MRO—it is the **largest in North America** and **third largest globally**. According to Delta, their capabilities include:
+Delta TechOps is not just any MRO—it is the largest in North America and third largest globally. According to Delta, their capabilities include:
 
 - Full-service MRO (airframe, powerplant, landing gear, etc.)  
 - Engine repair and overhaul  
@@ -71,4 +72,4 @@ However, Delta’s internal department naming lacks transparency for outsiders, 
 
 ---
 
-*Created to help students better understand Delta TechOps’ internal structure through the lens of a typical MRO framework.*
+*Created to help students (me) better understand Delta TechOps’ internal structure through the lens of a typical MRO framework.*
