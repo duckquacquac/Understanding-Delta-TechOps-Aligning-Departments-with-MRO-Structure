@@ -73,3 +73,7 @@ However, Delta’s current department listings make it difficult to understand w
 ---
 
 *Created to help students (me) better understand Delta TechOps’ internal structure through the lens of a typical MRO framework.*
+
+Source:
+Kinnison, Harry A, and Tariq Siddiqui. Aviation Maintenance Management, Second Edition. Second edition. New York: McGraw Hill, 2013. Print.
+International Air Transport Association. (n.d.). Delta TechOps capabilities overview. Retrieved August 7, 2025, from https://www.iata.org/contentassets/f03b1a4b79534b99802f10cd23b19ec2/delta-techops-capabilities-overview.pdf
