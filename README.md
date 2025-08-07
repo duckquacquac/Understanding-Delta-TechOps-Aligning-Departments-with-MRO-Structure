@@ -5,8 +5,7 @@ Upon researching Delta Air Lines and Delta TechOps in preparation for the upcomi
 ![Delta TechOps Departments](https://github.com/user-attachments/assets/cefc2cb7-ca4b-414c-86f0-63cf5e024dc0)
 > *Picture 1: List of Delta TechOps departments open for Co-op position*
 
-This document aims to bridge that gap by aligning Delta TechOps’ department names with a standard MRO (Maintenance, Repair, and Overhaul) framework. This may help students understand the structure more clearly and identify relevant skills to prepare.
-
+This document is attempting to bridge that gap by aligning Delta TechOps’ department names with a standard MRO in Aviation framework.
 ---
 
 ## I. Engineering in an MRO Environment
