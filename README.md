@@ -62,7 +62,7 @@ Delta TechOps is not just any MRO—it is the largest in North America and third
 ![Delta Engineering Services](https://github.com/user-attachments/assets/c99d58b1-1976-48ea-a7b0-a6f417d20a14)
 > *Picture 2: Delta Engineering Services*
 
-However, Delta’s internal department naming lacks transparency for outsiders, especially students seeking co-op roles. The following table is a speculative attempt to align department names with their likely functions in the MRO structure.
+However, Delta’s current department listings make it difficult to understand which teams are responsible for which functions—particularly when distinguishing between core MRO responsibilities and broader strategic initiatives. The following table is a speculative attempt to map each department to its likely function within a typical MRO framework.
 
 ---
 
