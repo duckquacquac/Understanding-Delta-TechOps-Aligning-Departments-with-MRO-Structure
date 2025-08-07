@@ -1,19 +1,19 @@
 # Understanding Delta TechOps: Aligning Departments with MRO Structure
 
-While researching Delta Air Lines and Delta TechOps in preparation for the upcoming hiring session, I found it difficult to clearly determine the specific responsibilities of each department. For instance, in Delta’s popular Co-op posting for **“Technical Operations,”** the job description lists several departments that a student might be assigned to, but provides minimal explanation of their functions.
+While researching Delta Air Lines and Delta TechOps in preparation for the upcoming hiring session, I found it difficult to clearly determine the specific responsibilities of each department. For instance, in Delta’s popular Co-op posting for **“Technical Operations,”** the job description lists several departments to which a student might be assigned, but provides minimal explanation of their functions.
 
 ![Delta TechOps Departments](https://github.com/user-attachments/assets/cefc2cb7-ca4b-414c-86f0-63cf5e024dc0)
-> *Figure 1: List of Delta TechOps departments open for Co-op position. Source: Delta Career website*
+> *Figure 1: List of Delta TechOps departments open for Co-op positions. Source: the Delta Careers website.*
 
-This document is attempting to bridge that gap by aligning Delta TechOps’ department names with a standard MRO in Aviation framework.
+This document attempts to bridge that gap by aligning Delta TechOps’ department names with a standard aviation MRO framework.
 
 ---
 
 ## I. Engineering in an MRO Environment
 
-A traditional MRO organization ensures that aircraft remain airworthy and operational. While maintenance technicians (AMTs) perform the hands-on servicing, engineers in an MRO setting serve a different role compared to those in traditional product-focused engineering companies. Their work revolves around compliance, documentation, and system-level oversight, rather than design and manufacturing.
+A traditional MRO organization ensures that aircraft remain airworthy and operational. While maintenance technicians (AMTs) perform the hands-on servicing, engineers in an MRO setting serve a different role compared to those in traditional product-focused engineering companies. Their work revolves around compliance, documentation, and system-level oversight, rather than engaging in design and manufacturing.
 
-Because of the aviation industry’s high-risk nature, MRO operations are subject to strict regulatory oversight, typically governed by three document sources:
+Because of the aviation industry’s high-risk nature, MRO operations are subject to strict regulatory oversight, typically governed by:
 
 ### 1. Manufacturer Documents:
 - Maintenance Manuals  
@@ -23,7 +23,7 @@ Because of the aviation industry’s high-risk nature, MRO operations are subjec
 ### 2. Operator Documents:
 - **Engineering Orders (EO):** Internal documents that implement modifications based on SBs or SLs.  
 - **Task Cards:** Step-by-step instructions for maintenance staff.  
-- Maintenance Procedures and Forms  
+- Maintenance procedures and associated forms  
 
 ### 3. Regulatory Authority Documents (e.g., FAA):
 - Airworthiness Directives (AD)  
@@ -50,7 +50,7 @@ To manage this complex environment, each airline develops a **Maintenance Progra
 
 ## II. Delta TechOps: A Unique MRO Model
 
-Delta TechOps is not just any MRO—it is the largest in North America and third largest globally. According to Delta, their capabilities include:
+Delta TechOps is not just any MRO—it is the largest in North America and the third largest globally. According to Delta, their capabilities include:
 
 - Full-service MRO (airframe, powerplant, landing gear, etc.)  
 - Engine repair and overhaul  
@@ -72,7 +72,7 @@ However, Delta’s current department listings make it difficult to understand w
 
 ---
 
-*Created to help students (me) better understand Delta TechOps’ internal structure through the lens of a typical MRO framework.*
+*This table was created to help students—myself included—better understand Delta TechOps’ internal structure through the lens of a typical MRO framework.*
 
 Source:
 Kinnison, Harry A, and Tariq Siddiqui. Aviation Maintenance Management, Second Edition. Second edition. New York: McGraw Hill, 2013. Print.
