@@ -1,9 +1,9 @@
 # Understanding Delta TechOps: Aligning Departments with MRO Structure
 
-Upon researching Delta Air Lines and Delta TechOps in preparation for the upcoming hiring session, I found it difficult to clearly determine the specific responsibilities of each department. For instance, in Delta’s popular Co-op posting for **“Technical Operations,”** the job description lists several departments that a student might be assigned to, but provides minimal explanation of their functions.
+While researching Delta Air Lines and Delta TechOps in preparation for the upcoming hiring session, I found it difficult to clearly determine the specific responsibilities of each department. For instance, in Delta’s popular Co-op posting for **“Technical Operations,”** the job description lists several departments that a student might be assigned to, but provides minimal explanation of their functions.
 
 ![Delta TechOps Departments](https://github.com/user-attachments/assets/cefc2cb7-ca4b-414c-86f0-63cf5e024dc0)
-> *Picture 1: List of Delta TechOps departments open for Co-op position*
+> *Picture 1: List of Delta TechOps departments open for Co-op position. Source: Delta Career website*
 
 This document is attempting to bridge that gap by aligning Delta TechOps’ department names with a standard MRO in Aviation framework.
 
@@ -60,7 +60,7 @@ Delta TechOps is not just any MRO—it is the largest in North America and third
 - Delta Flight Products (designing and manufacturing cabin parts)  
 
 ![Delta Engineering Services](https://github.com/user-attachments/assets/c99d58b1-1976-48ea-a7b0-a6f417d20a14)
-> *Picture 2: Delta Engineering Services*
+> *Picture 2: Delta Engineering Services. Source: https://www.iata.org/contentassets/f03b1a4b79534b99802f10cd23b19ec2/delta-techops-capabilities-overview.pdf*
 
 However, Delta’s current department listings make it difficult to understand which teams are responsible for which functions—particularly when distinguishing between core MRO responsibilities and broader strategic initiatives. The following table is a speculative attempt to map each department to its likely function within a typical MRO framework.
 
