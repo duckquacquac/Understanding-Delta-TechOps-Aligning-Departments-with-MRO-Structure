@@ -34,7 +34,7 @@ Because of the aviation industry’s high-risk nature, MRO operations are subjec
 
 > FAA issues an AD → Manufacturer publishes a Service Bulletin → Operator creates an Engineering Order → Engineer signs off → AMTs perform the task.
 
-To manage this complex environment, each airline develops a **Maintenance Program**—a strategic philosophy for maintaining aircraft efficiently and in compliance. Notably, Delta TechOps even assists smaller carriers in developing their programs.
+To manage this complex environment, each airline develops a **Maintenance Program**—a strategic philosophy for maintaining aircraft efficiently and in compliance. Delta TechOps even assists smaller carriers in developing their programs.
 
 ---
 
